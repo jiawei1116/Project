@@ -1,0 +1,36 @@
+{
+    "department": "中華電信公司    ",
+    "download": "/cht-eip-mc/media/album/downloadAlbum/74838",
+    "paths": [
+        {
+            "name": "中華電信公司    ",
+            "url": "/cht-eip-mc/media/album/74838"
+        }
+    ],
+    "albums": [
+        {
+            "id": "20170913_001",
+            "thumbUrl": "http://localhost:8080/myImages/media/74838-tmp/20170913_001/Desert-300.png",
+            "name": "20170913_001",
+            "link": "/cht-eip-mc/media/album/74838/20170913_001"
+        }
+    ],
+    "photos": [
+        {
+            "id": "Hydrangeas.jpg",
+            "link": null,
+            "download": "/cht-eip-mc/media/album/downloadPhoto/74838/Hydrangeas.jpg",
+            "thumbUrl": "http://localhost:8080/myImages/media/74838-tmp/Hydrangeas-300.png",
+            "regularUrl": "http://localhost:8080/myImages/media/74838-tmp/Hydrangeas-1000.png",
+            "rawUrl": "http://localhost:8080/myImages/media/74838/Hydrangeas.jpg"
+        },
+        {
+            "id": "中文圖.jpg",
+            "link": null,
+            "download": "/cht-eip-mc/media/album/downloadPhoto/74838/中文圖.jpg",
+            "thumbUrl": "http://localhost:8080/myImages/media/74838-tmp/中文圖-300.png",
+            "regularUrl": "http://localhost:8080/myImages/media/74838-tmp/中文圖-1000.png",
+            "rawUrl": "http://localhost:8080/myImages/media/74838/中文圖.jpg"
+        }
+    ]
+}
